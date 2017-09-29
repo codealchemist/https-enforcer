@@ -1,0 +1,25 @@
+{
+  "name": "https-enforcer",
+  "version": "1.0.0",
+  "description": "Express middleware to enforce HTTPS connections on non local requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codealchemist/https-enforcer.git"
+  },
+  "keywords": [
+    "https",
+    "express",
+    "middleware",
+    "enforce"
+  ],
+  "author": "Alberto Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codealchemist/https-enforcer/issues"
+  },
+  "homepage": "https://github.com/codealchemist/https-enforcer#readme"
+}
